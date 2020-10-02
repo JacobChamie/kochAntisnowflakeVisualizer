@@ -1,3 +1,3 @@
 # kochAntisnowflakeVisualizer
 Visualizes the Koch Antisnowflake
-src="https://user-images.githubusercontent.com/11828890/94900735-567c2680-044a-11eb-8303-a1b95b3633a4.PNG"
+![Capture](https://user-images.githubusercontent.com/11828890/94900783-76134f00-044a-11eb-900f-2e744e017825.PNG)
